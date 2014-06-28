@@ -1,0 +1,14 @@
+/disabled_plugins.txt
+/disabled_update.txt
+/idea13.key
+/port
+/componentVersions
+/eval
+/plugins/availables.xml
+/options
+/colors/x.icls
+/inspection
+/plugins/extensions.xml
+/plugins/NodeJS/js
+.idea/
+*.jar
