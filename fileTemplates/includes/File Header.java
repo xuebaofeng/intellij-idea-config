@@ -1,4 +1,3 @@
 /**
- * @author ${USER}
- * @date ${DATE}.
+ * @author Baofeng Xue at ${DATE} ${TIME}.
  */
