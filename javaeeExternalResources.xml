@@ -1,0 +1,6 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="roles-permissions.dtd" location="$USER_HOME$/github/baofeng.tools/src/main/resources/roles-permissions.dtd" />
+    <resource url="users-permissions.dtd" location="$USER_HOME$/github/baofeng.tools/src/main/resources/users-permissions.dtd" />
+  </component>
+</application>

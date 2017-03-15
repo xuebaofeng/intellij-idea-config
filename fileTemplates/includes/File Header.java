@@ -1,3 +1,3 @@
 /**
- * @author Baofeng Xue at ${DATE} ${TIME}.
+ * @author  Baofeng(Shawn) Xue
  */
