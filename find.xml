@@ -1,6 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="FILE_MASK" value="*.gradle" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.bat" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -12,6 +15,8 @@
       <mask>*.mxml</mask>
       <mask>*.java</mask>
       <mask>*.gradle</mask>
+      <mask>*.ba</mask>
+      <mask>*.bat</mask>
     </recentFileMasks>
   </component>
 </application>
