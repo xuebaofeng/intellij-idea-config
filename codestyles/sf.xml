@@ -8,11 +8,11 @@
       <emptyLine />
       <package name="javax" withSubpackages="true" static="false" />
       <emptyLine />
-      <package name="org.jboss" withSubpackages="true" static="false" />
+      <package name="org" withSubpackages="true" static="false" />
       <emptyLine />
-      <package name="com.sf" withSubpackages="true" static="false" />
       <package name="" withSubpackages="true" static="false" />
       <emptyLine />
+      <package name="com.sf" withSubpackages="true" static="false" />
       <package name="com.successfactors" withSubpackages="true" static="false" />
       <emptyLine />
       <package name="" withSubpackages="true" static="true" />
