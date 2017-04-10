@@ -18,11 +18,12 @@
       <mask>*.ba</mask>
       <mask>*.bat</mask>
       <mask>*.*</mask>
-      <mask>*.</mask>
       <mask>*.x</mask>
       <mask>*.properties,*.xml,*.sh</mask>
       <mask>*</mask>
+      <mask>*.</mask>
       <mask>*.xml</mask>
+      <mask>*.j</mask>
       <mask>*.java</mask>
     </recentFileMasks>
   </component>
