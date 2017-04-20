@@ -1,0 +1,21 @@
+<application>
+  <component name="IntelliJOptimizer">
+    <option name="installationGuid" value="VvjYy4ZQ/2JVWIkKYUDkTsllYbaMEjRGBptg+RSErXo=" />
+    <option name="installationTimestamp" value="1492711770828" />
+    <option name="firstBootTime" value="16642132895" />
+    <option name="currentBootTime" value="16642132895" />
+    <option name="isSignedUp" value="true" />
+    <option name="currentlyPerformedActivities">
+      <list>
+        <option value="Memory Parameters" />
+        <option value="Class Verification" />
+      </list>
+    </option>
+    <option name="company" value="sap" />
+    <option name="email" value="baofeng.xue@sap.com" />
+    <option name="firstName" value="Baofeng" />
+    <option name="lastName" value="Xue" />
+    <option name="phoneNumber" value="+16507626286" />
+    <option name="getDevelopersInCompany" value="10+" />
+  </component>
+</application>
