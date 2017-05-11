@@ -22,11 +22,13 @@
       <mask>*.ja</mask>
       <mask>*.x</mask>
       <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.java,</mask>
       <mask>*.java,*</mask>
       <mask>*.java,*.</mask>
       <mask>*.java,*.xml</mask>
+      <mask>*.java,ml</mask>
+      <mask>*.java,l</mask>
+      <mask>*.java,</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
