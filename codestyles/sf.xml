@@ -18,6 +18,7 @@
       <package name="" withSubpackages="true" static="true" />
     </value>
   </option>
+  <option name="RIGHT_MARGIN" value="150" />
   <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <codeStyleSettings language="JAVA">
     <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
