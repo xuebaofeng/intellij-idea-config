@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project Production Files" />
+    <option name="FILE_MASK" value="*.json" />
     <recentFileMasks>
       <mask>*.as</mask>
       <mask>*.css</mask>
@@ -30,12 +31,12 @@
       <mask>*.java,*.jso</mask>
       <mask>*.java,*.json</mask>
       <mask>*.java*.json</mask>
-      <mask>*.json</mask>
       <mask>*.jva</mask>
       <mask>*.jv</mask>
-      <mask>*.j</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
+      <mask>*.j</mask>
+      <mask>*.json</mask>
     </recentFileMasks>
   </component>
 </application>
