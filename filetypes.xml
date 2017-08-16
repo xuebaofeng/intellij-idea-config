@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="env2json" type="PLAIN_TEXT" />
+      <mapping ext="cache" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
