@@ -1,41 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Production Files" />
-    <option name="defaultScopeName" value="Project Production Files" />
-    <option name="localWholeWordsOnly" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="Project Production Files" />
-    <recentFileMasks>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.gradle</mask>
-      <mask>*.ba</mask>
-      <mask>*.bat</mask>
-      <mask>*.*</mask>
-      <mask>*.properties,*.xml,*.sh</mask>
-      <mask>*.jsp</mask>
-      <mask>*.js</mask>
-      <mask>*.java,*.</mask>
-      <mask>*.java,*.xml</mask>
-      <mask>*.java,ml</mask>
-      <mask>*.java,l</mask>
-      <mask>*.xm</mask>
-      <mask>*.x</mask>
-      <mask>*.xml</mask>
-      <mask>*.java,</mask>
-      <mask>*.java,*</mask>
-      <mask>*.java,*.jso</mask>
-      <mask>*.java,*.json</mask>
-      <mask>*.java*.json</mask>
-      <mask>*.jva</mask>
-      <mask>*.jv</mask>
-      <mask>*.ja</mask>
-      <mask>*.j</mask>
-      <mask>*</mask>
-      <mask>*./</mask>
-      <mask>*.</mask>
-      <mask>*.java</mask>
-      <mask>*.json</mask>
-    </recentFileMasks>
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
