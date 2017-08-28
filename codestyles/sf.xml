@@ -18,8 +18,10 @@
       <package name="" withSubpackages="true" static="true" />
     </value>
   </option>
-  <option name="RIGHT_MARGIN" value="150" />
-  <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
+  <option name="RIGHT_MARGIN" value="160" />
+  <XML>
+    <option name="XML_ATTRIBUTE_WRAP" value="4" />
+  </XML>
   <codeStyleSettings language="JAVA">
     <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
     <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
