@@ -19,8 +19,10 @@
     </value>
   </option>
   <option name="RIGHT_MARGIN" value="160" />
+  <option name="ENABLE_JAVADOC_FORMATTING" value="false" />
+  <option name="JD_ADD_BLANK_AFTER_DESCRIPTION" value="false" />
   <XML>
-    <option name="XML_ATTRIBUTE_WRAP" value="4" />
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
   <codeStyleSettings language="JAVA">
     <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
