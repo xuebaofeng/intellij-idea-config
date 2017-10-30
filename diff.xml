@@ -3,7 +3,7 @@
     <option name="PLACES_MAP">
       <entry key="CommitDialog">
         <PlaceSettings>
-          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES" />
+          <option name="IGNORE_POLICY" value="FORMATTING" />
         </PlaceSettings>
       </entry>
       <entry key="Default">
