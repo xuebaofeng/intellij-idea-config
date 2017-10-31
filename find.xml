@@ -18,12 +18,12 @@
       <mask>*.x,;</mask>
       <mask>*.x,</mask>
       <mask>*.j</mask>
-      <mask>*.java</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.xml</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
