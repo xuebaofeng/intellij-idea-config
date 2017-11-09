@@ -2,12 +2,22 @@
   <component name="ConsoleFoldingSettings">
     <option name="addedPositive">
       <list>
+        <option value=".doFilter(" />
+        <option value=".lab515." />
+        <option value=".ui." />
+        <option value="at com.sap.capillary." />
         <option value="at com.successfactors.platform.ui.filter." />
+        <option value="at com.successfactors.qray." />
         <option value="at com.successfactors.sca." />
         <option value="at com.successfactors.test." />
         <option value="at java." />
         <option value="at org." />
-        <option value="at com.sap.capillary." />
+        <option value=".aroundInvoke(" />
+      </list>
+    </option>
+    <option name="addedNegative">
+      <list>
+        <option value=".rbp." />
       </list>
     </option>
   </component>
