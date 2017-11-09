@@ -1,0 +1,14 @@
+<application>
+  <component name="ConsoleFoldingSettings">
+    <option name="addedPositive">
+      <list>
+        <option value="at com.successfactors.platform.ui.filter." />
+        <option value="at com.successfactors.sca." />
+        <option value="at com.successfactors.test." />
+        <option value="at java." />
+        <option value="at org." />
+        <option value="at com.sap.capillary." />
+      </list>
+    </option>
+  </component>
+</application>
