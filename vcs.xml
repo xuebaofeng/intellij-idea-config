@@ -10,6 +10,10 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="xuebaofeng" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.wdf.sap.corp" />
+          <option name="userName" value="i854966" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\I854966\github" />
