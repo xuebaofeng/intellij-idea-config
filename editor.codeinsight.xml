@@ -5,7 +5,6 @@
   </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseAccessors" value="true" />
-    <option name="collapseAnnotations" value="true" />
     <option name="collapseAnonymousClasses" value="true" />
     <option name="collapseEndOfLineComments" value="true" />
     <option name="collapseInnerClasses" value="true" />
