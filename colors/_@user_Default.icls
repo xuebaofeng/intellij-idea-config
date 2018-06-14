@@ -1,0 +1,35 @@
+<scheme name="_@user_Default" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2018-06-13T20:17:58</property>
+    <property name="ide">Idea</property>
+    <property name="ideVersion">2018.1.4.0.0</property>
+    <property name="modified">2018-06-14T14:59:49</property>
+    <property name="originalScheme">Default</property>
+  </metaInfo>
+  <attributes>
+    <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="ANONYMOUS_CLASS_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="CLASS_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="INTERFACE_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
