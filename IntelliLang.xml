@@ -8,9 +8,5 @@
       <display-name>JdbcTemplate.execute (org.springframework.jdbc.core)</display-name>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("execute").withParameters("java.lang.String").definedInClass("org.springframework.jdbc.core.JdbcTemplate"))]]></place>
     </injection>
-    <injection language="JSON" injector-id="java">
-      <display-name>List.add (java.util)</display-name>
-      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("add").withParameters("java.lang.Object").definedInClass("java.util.List"))]]></place>
-    </injection>
   </component>
 </application>
