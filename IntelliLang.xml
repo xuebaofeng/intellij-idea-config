@@ -13,6 +13,10 @@
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("execute").withParameters("java.lang.String").definedInClass("org.springframework.jdbc.core.JdbcTemplate"))]]></place>
     </injection>
     <injection language="JSON" injector-id="java">
+      <display-name>QrayAssert.assertEquals (com.successfactors.test.qray.library.remote.common.util)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("assertEquals").withParameters("java.lang.String", "java.lang.String").definedInClass("com.successfactors.test.qray.library.remote.common.util.QrayAssert"))]]></place>
+    </injection>
+    <injection language="JSON" injector-id="java">
       <display-name>TestBaseAction.setData (com.successfactors.test.qray.library.remote.plt.rbp.units)</display-name>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("setData").withParameters("java.lang.Object", "com.successfactors.test.qray.library.remote.plt.rbp.template.TestBaseTemplate").definedInClass("com.successfactors.test.qray.library.remote.plt.rbp.units.TestBaseAction"))]]></place>
     </injection>
