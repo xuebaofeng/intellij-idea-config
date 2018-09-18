@@ -4,7 +4,6 @@
       <mapping pattern="cacerts_sfv4" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="password" type="PLAIN_TEXT" />
-      <mapping ext="bak" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
