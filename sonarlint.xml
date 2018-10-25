@@ -1,0 +1,14 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sf-sonar.mo.sap.corp" />
+          <token>dfcfdfcedf9edf9cdf9ddf99dfc9df9fdfc8dfcfdfcedf9cdf98df99dfccdf9cdf98dfccdfcbdf99df99df93df9adf9cdf99df92df99dfcfdfccdf92df98df93df9adf9bdf93df9cdf9cdf9fdf9cdf9b</token>
+          <option name="name" value="https://sf-sonar.mo.sap.corp" />
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
