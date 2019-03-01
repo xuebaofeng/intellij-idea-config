@@ -12,9 +12,12 @@
       <mapping ext="prc" type="DBN-PSQL" />
       <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
+      <mapping pattern="keystore" type="PLAIN_TEXT" />
       <mapping pattern="cacerts_sfv4" type="PLAIN_TEXT" />
+      <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="password" type="PLAIN_TEXT" />
+      <mapping ext="keystore" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
