@@ -12,7 +12,7 @@
     <mask>*.js</mask>
     <mask>*.properties</mask>
     <mask>*.sh</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
