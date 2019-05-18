@@ -17,10 +17,6 @@
       <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("assertEquals").withParameters("java.lang.String", "java.lang.String").definedInClass("com.successfactors.test.qray.library.remote.common.util.QrayAssert"))]]></place>
     </injection>
     <injection language="JSON" injector-id="java">
-      <display-name>String.format (java.lang)</display-name>
-      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("format").withParameters("java.lang.String", "java.lang.Object...").definedInClass("java.lang.String"))]]></place>
-    </injection>
-    <injection language="JSON" injector-id="java">
       <display-name>TestBaseAction.setData (com.successfactors.test.qray.library.remote.plt.rbp.units)</display-name>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("setData").withParameters("java.lang.Object", "com.successfactors.test.qray.library.remote.plt.rbp.template.TestBaseTemplate").definedInClass("com.successfactors.test.qray.library.remote.plt.rbp.units.TestBaseAction"))]]></place>
     </injection>
