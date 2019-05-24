@@ -1,9 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="cacerts_sfv4" type="PLAIN_TEXT" />
-      <mapping pattern="DockerFile" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="password" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />

@@ -30,6 +30,6 @@
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
   </component>
   <component name="VcsApplicationSettings">
-    <option name="PATCH_STORAGE_LOCATION" value="/mnt/hgfs/vm" />
+    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/OneDrive/vm" />
   </component>
 </application>
