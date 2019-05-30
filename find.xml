@@ -12,8 +12,8 @@
     <mask>*.json</mask>
     <mask>*.js</mask>
     <mask>*.sql</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.gradle</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
