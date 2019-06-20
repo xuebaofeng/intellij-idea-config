@@ -1,6 +1,10 @@
 <application>
   <component name="LanguageInjectionConfiguration">
     <injection language="JSON" injector-id="java">
+      <display-name>Assert.assertEquals (org.testng)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("assertEquals").withParameters("java.lang.String", "java.lang.String").definedInClass("org.testng.Assert"))]]></place>
+    </injection>
+    <injection language="JSON" injector-id="java">
       <display-name>COFunctionRequest.setPayload (com.successfactors.coengine.kernel.query.base)</display-name>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("setPayload").withParameters("java.lang.String").definedInClass("com.successfactors.coengine.kernel.query.base.COFunctionRequest"))]]></place>
     </injection>
