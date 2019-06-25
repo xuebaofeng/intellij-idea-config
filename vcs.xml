@@ -6,24 +6,10 @@
           <option name="url" value="http://github.wdf.sap.corp" />
           <option name="userName" value="i854966" />
         </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://github.com" />
-          <option name="userName" value="xuebaofeng" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/xuebaofeng/baofeng.tools.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.wdf.sap.corp/i854966/opensaml3-test.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://github.tools.sap" />
-          <option name="userName" value="I854966" />
-        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="/data/sfsf/workspace" />
+  </component>
+  <component name="VcsApplicationSettings">
+    <option name="PATCH_STORAGE_LOCATION" value="/mnt/hgfs/vm" />
   </component>
 </application>
