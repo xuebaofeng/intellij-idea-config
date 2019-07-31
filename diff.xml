@@ -12,6 +12,11 @@
           <option name="IGNORE_POLICY" value="FORMATTING" />
         </PlaceSettings>
       </entry>
+      <entry key="Merge">
+        <PlaceSettings>
+          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES" />
+        </PlaceSettings>
+      </entry>
     </option>
   </component>
 </application>
