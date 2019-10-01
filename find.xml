@@ -3,13 +3,9 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="PLT-75315  Notify customer of the IPS URL during the IAS migration process via Upgrade Cen" />
     <option name="defaultScopeName" value="PLT-75315  Notify customer of the IPS URL during the IAS migration process via Upgrade Cen" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="localWholeWordsOnly" value="true" />
     <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="PLT-75315  Notify customer of the IPS URL during the IAS migration process via Upgrade Cen" />
     <mask>*.css</mask>
     <mask>*.html</mask>
