@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="PLT-75315  Notify customer of the IPS URL during the IAS migration process via Upgrade Cen" />
-    <option name="defaultScopeName" value="PLT-75315  Notify customer of the IPS URL during the IAS migration process via Upgrade Cen" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="PLT-75315  Notify customer of the IPS URL during the IAS migration process via Upgrade Cen" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
