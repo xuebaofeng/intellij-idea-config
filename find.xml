@@ -10,6 +10,7 @@
     <mask>*.jsp</mask>
     <mask>*.sql</mask>
     <mask>*.xml</mask>
+    <mask>*.log</mask>
     <mask>*.java</mask>
   </component>
 </application>
