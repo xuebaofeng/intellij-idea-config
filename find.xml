@@ -1,16 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.css</mask>
-    <mask>*.html</mask>
-    <mask>*.properties</mask>
-    <mask>*.jsp</mask>
-    <mask>*.sql</mask>
-    <mask>*.log</mask>
-    <mask>*.xml</mask>
-    <mask>*.java</mask>
-    <mask>*.gradle</mask>
+    <option name="customScope" value="Project Files" />
+    <option name="defaultScopeName" value="Project Files" />
+    <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.java" />
   </component>
 </application>
