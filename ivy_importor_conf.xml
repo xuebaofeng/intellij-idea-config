@@ -1,0 +1,5 @@
+<application>
+  <component name="importxxxx">
+    <ivy_dependency_importor dist_lib_path="" artifact_pattern="[organisation]/[module]/[revision]/[artifact].[ext]" />
+  </component>
+</application>
