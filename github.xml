@@ -1,4 +1,9 @@
 <application>
+  <component name="GithubAccounts">
+    <account id="f0692ad9-fa5b-44c2-afd5-5df8c812c045" name="i854966">
+      <server host="github.wdf.sap.corp" />
+    </account>
+  </component>
   <component name="GithubSettings">
     <option name="LOGIN" value="xuebaofeng" />
     <option name="AUTH_TYPE" value="BASIC" />
