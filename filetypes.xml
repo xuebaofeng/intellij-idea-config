@@ -1,11 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="DockerFile" type="PLAIN_TEXT" />
-      <mapping pattern=".crontab" type="PLAIN_TEXT" />
+      <mapping ext="m4a" type="Native" />
       <mapping pattern=".gitignore_global" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern=".crontab" type="PLAIN_TEXT" />
+      <mapping pattern="DockerFile" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="Dockerfile" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
