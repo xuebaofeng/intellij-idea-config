@@ -9,7 +9,7 @@
     <mask>*.gradle</mask>
     <mask>*.xml</mask>
     <mask>*.properties</mask>
-    <mask>*.utf8</mask>
     <mask>*.java</mask>
+    <mask>*.utf8</mask>
   </component>
 </application>
