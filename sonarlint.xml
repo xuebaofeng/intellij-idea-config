@@ -1,5 +1,12 @@
 <application>
   <component name="SonarLintGlobalSettings">
+    <option name="excludedRules">
+      <set>
+        <option value="java:S106" />
+        <option value="java:S2095" />
+        <option value="java:S2386" />
+      </set>
+    </option>
     <option name="sonarQubeServers">
       <list>
         <SonarQubeServer>
